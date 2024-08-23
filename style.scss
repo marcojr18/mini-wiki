@@ -1,5 +1,16 @@
 // seletor
 // propriedade:valor;
+*{
+    margin: 0;// espaço de fora da tag
+
+padding: 0;// espaço de fora da tag
+ background-origin: padding-box;// é utilizado para calcular a altura e a largura automaticamente
+}
+//body referece a cor do site
+body{
+    background-color: red; //tag para cor de fundo
+    border-radius: 50%;
+}
 h1{
-    color: red;
+ color: rgba(255, 0, 0, 0.412)#000000;
 }

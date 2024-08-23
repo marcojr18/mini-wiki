@@ -1,3 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-origin: padding-box;
+}
+
+body {
+  background-color: red;
+  border-radius: 50%;
+}
+
 h1 {
-  color: red;
+  color: rgba(255, 0, 0, 0.412) #000000;
 }/*# sourceMappingURL=style.css.map */
